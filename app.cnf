@@ -1,6 +1,7 @@
 {
   "USER": "",
   "PASS": "",
+  "IS_SCROLL": 0,
   "FONT_SIZE": 20,
   "EDITOR_WIDTH": 450,
   "EDITOR_HEIGHT": 578,
