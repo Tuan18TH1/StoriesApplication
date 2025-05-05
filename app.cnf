@@ -1,0 +1,13 @@
+{
+  "USER": "",
+  "PASS": "",
+  "FONT_SIZE": 20,
+  "EDITOR_WIDTH": 450,
+  "EDITOR_HEIGHT": 578,
+  "RESIZE_FORM": 0,
+  "TEXT_ALIGNMENT": "Left",
+  "STR_CONNECTION": "Server=103.163.118.218;Database=apptruyen_wpf;UId=apptruyen_wpf;Pwd=T@m123456;port=3306;Pooling=false;Character Set=utf8",
+  "EDITOR_MARGIN": "0 0 0 0",
+  "EDITOR_PADDING": "10 4 10 4",
+  "EDITOR_TIMESAVE": 3
+}
