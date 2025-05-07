@@ -1,7 +1,7 @@
 {
-  "USER": "",
+  "USER": "root",
   "PASS": "",
-  "IS_SCROLL": 0,
+  "IS_SCROLL": 1,
   "FONT_SIZE": 20,
   "EDITOR_WIDTH": 400,
   "EDITOR_HEIGHT": 578,
